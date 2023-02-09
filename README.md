@@ -14,7 +14,7 @@
 - Twitter: [FranklinMayoyo](https://twitter.com/FranklinMayoyo)
 - LinkedIin: [FranklinMayoyo](https://www.linkedin.com/in/franklin-mayoyo/) 
 - Hashnode: [Dev++](https://mayoyo.hashnode.dev/)
-- Medium: [@kumartul001](https://medium.com/@franklinmayoyo)
+- Medium: [Frankiln Mayoyo](https://medium.com/@franklinmayoyo)
 
 ## My Skills 💪
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
