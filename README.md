@@ -1,9 +1,9 @@
 ### Hello, I am Franklin Mayoyo 👋
 
-- 🔭 I’m currently working on a search engine
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on an [ai_chatbot](https://www.aimanagerpro.com/)
+- 🌱 Currently expanding my knowledge on MERN
 - 👯 I’m looking to collaborate on Full Stack Development
-- 🤔 I’m looking for help with Python
+- 🤔 I’m looking for help with MERN
 - 💬 Ask me anything about the technologies listed [here](https://github.com/mayoyo25#my-skills-)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing football video games
