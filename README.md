@@ -1,20 +1,20 @@
 ### Hello, I am Franklin Mayoyo 👋
 
-- 🔭 I’m currently working on an [ai_chatbot](https://www.aimanagerpro.com/)
+- 🔭 I’m currently working on an [ai_chatbot](https://www.aimanagerpro.com/){:target="_blank"}
 - 🌱 Currently expanding my knowledge on MERN
 - 👯 I’m looking to collaborate on Full Stack Development
 - 🤔 I’m looking for help with MERN
-- 💬 Ask me anything about the technologies listed [here](https://github.com/mayoyo25#my-skills-)
+- 💬 Ask me anything about the technologies listed [here](https://github.com/mayoyo25#my-skills-){:target="_blank"}
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing football video games
 
 ## Let's Connect 🤝
 - Email: empeirreagan@gmail.com
-- website: [Devmayoyo](https://www.devmayoyo.com)
-- Twitter: [FranklinMayoyo](https://twitter.com/FranklinMayoyo)
-- LinkedIin: [FranklinMayoyo](https://www.linkedin.com/in/franklin-mayoyo/) 
-- Hashnode: [Dev++](https://mayoyo.hashnode.dev/)
-- Medium: [Frankiln Mayoyo](https://medium.com/@franklinmayoyo)
+- website: [Devmayoyo](https://www.devmayoyo.com){:target="_blank"}
+- Twitter: [FranklinMayoyo](https://twitter.com/FranklinMayoyo){:target="_blank"}
+- LinkedIin: [FranklinMayoyo](https://www.linkedin.com/in/franklin-mayoyo/){:target="_blank"} 
+- Hashnode: [Dev++](https://mayoyo.hashnode.dev/){:target="_blank"}
+- Medium: [Frankiln Mayoyo](https://medium.com/@franklinmayoyo){:target="_blank"}
 
 ## My Skills 💪
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
