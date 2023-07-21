@@ -1,7 +1,7 @@
 ### Hello, I am Franklin Mayoyo 👋
 
 - 🔭 I’m currently working on an [CrestGPT](https://www.crestgpt.com/)
-- 🌱 Currently expanding my knowledge on Noext 13
+- 🌱 Currently expanding my knowledge on Next 13
 - 👯 I’m looking to collaborate on Full Stack Development
 - 🤔 I’m looking for help with job opportunities
 - 💬 Ask me anything about the technologies listed [here](https://github.com/mayoyo25#my-skills-)
