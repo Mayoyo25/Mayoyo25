@@ -1,6 +1,6 @@
 ### Hello, I am Franklin Mayoyo 👋
 
-- 🔭 I’m currently working on an [CrestGPT](https://www.crestgpt.com/)
+- 🔭 I’m currently working on an [Smart Brandly](https://www.smartbrandly.com/)
 - 🌱 Currently expanding my knowledge on Next 13
 - 👯 I’m looking to collaborate on Full Stack Development
 - 🤔 I’m looking for help with job opportunities
