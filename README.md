@@ -1,6 +1,6 @@
 ### Hello, I am Franklin Mayoyo 👋
 
-- 🔭 I’m currently working on [CrestGPT](https://www.crestgpt.com/) and [SmartBrandly](https://www.smartbrandly.com/)
+- 🔭 I’m currently working on [CrestGPT](https://www.crestgpt.com/) and [SUB](https://www.saasuserboost.com/)
 - 🌱 Currently expanding my knowledge on Next
 - 👯 I’m looking to collaborate on Full Stack Development
 - 🤔 I’m looking for help with job opportunities
@@ -9,8 +9,8 @@
 - ⚡ Fun fact: I love playing football video games
 
 ## Let's Connect 🤝
-- Email: empeirreagan@gmail.com
-- website: [Devmayoyo](https://www.devmayoyo.com)
+- Email: info@mayoyo.site
+- website: [Mayoyo](https://www.mayoyo.site)
 - Twitter: [FranklinMayoyo](https://twitter.com/FranklinMayoyo)
 - LinkedIin: [FranklinMayoyo](https://www.linkedin.com/in/franklin-mayoyo/)
 - Hashnode: [Dev++](https://mayoyo.hashnode.dev/)
