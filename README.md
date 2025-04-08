@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love playing football video games
 
 ## Let's Connect 🤝
-- Email: info@mayoyo.site
+- Email: franklinmonda70@gmail.com
 - website: [Mayoyo](https://www.mayoyo.site)
 - Twitter: [FranklinMayoyo](https://twitter.com/FranklinMayoyo)
 - LinkedIin: [FranklinMayoyo](https://www.linkedin.com/in/franklin-mayoyo/)
