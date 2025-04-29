@@ -1,12 +1,8 @@
 ### Hello, I am Franklin Mayoyo 👋
 
-- 🔭 I’m currently working on [CrestGPT](https://www.crestgpt.com/) and [SUB](https://www.saasuserboost.com/)
-- 🌱 Currently expanding my knowledge on Next
-- 👯 I’m looking to collaborate on Full Stack Development
-- 🤔 I’m looking for help with job opportunities
+I’m looking forward to helping you achive that business dream.
 - 💬 Ask me anything about the technologies listed [here](https://github.com/mayoyo25#my-skills-)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing football video games
 
 ## Let's Connect 🤝
 - Email: franklinmonda70@gmail.com
