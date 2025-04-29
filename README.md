@@ -1,6 +1,6 @@
 ### Hello, I am Franklin Mayoyo 👋
 
-I’m looking forward to helping you achive that business dream.
+I’m looking forward to helping you achieve that business dream.
 - 💬 Ask me anything about the technologies listed [here](https://github.com/mayoyo25#my-skills-)
 - 😄 Pronouns: He/Him
 
