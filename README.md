@@ -11,7 +11,7 @@ I'm looking forward to helping you achieve that business dream.
 - 😄 Pronouns: He/Him
 
 ## Let's Connect 🤝
-- Email: franklinmonda70@gmail.com
+- Email: franklinmayoyo3@gmail.com
 - Website: [Mayoyo](https://www.mayoyo.site)
 - Twitter: [FranklinMayoyo](https://twitter.com/FranklinMayoyo)
 - LinkedIn: [FranklinMayoyo](https://www.linkedin.com/in/franklin-mayoyo/)
