@@ -13,7 +13,7 @@ Currently contributing to the AI revolution through model training, prompt engin
 - 😄 Pronouns: He/Him
 
 ## Let's Connect 🤝
-- Email: franklinmayoyo3@gmail.com
+- Email: franklinmayoyo@outlook.com
 - Portfolio: [Franklin Mayoyo Portfolio](https://franklin-mayoyo.vercel.app)
 - Twitter: [FranklinMayoyo](https://twitter.com/FranklinMayoyo)
 - LinkedIn: [FranklinMayoyo](https://www.linkedin.com/in/franklin-mayoyo/)
