@@ -174,5 +174,7 @@ Currently contributing to the AI revolution through model training, prompt engin
 - Educational Content Creation
 
 ---
+## 📊 GitHub Activity
+![Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayoyo25&show_icons=true&hide_title=true)
 
 *Let's build the future of AI together! Open to collaboration on machine learning projects, AI training initiatives, and innovative technical solutions.*
