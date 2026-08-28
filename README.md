@@ -22,6 +22,6 @@ I build software products, automation tools, and intelligent systems across web,
 - Freelance and contract work, web/SaaS or backend-leaning
 - AI/ML and automation projects
 
-📫 Email: franklinmayoyo@outlook.com
-🌐 Portfolio: https://franklin-mayoyo.vercel.app
+📫 Email: franklinmayoyo@outlook.com<br>
+🌐 Portfolio: https://franklin-mayoyo.vercel.app<br>
 💼 LinkedIn: https://www.linkedin.com/in/franklin-mayoyo/
